@@ -22,10 +22,10 @@ Passionate Flutter Developer with <strong>3+ years of experience</strong> buildi
 - 💙 Passionate about Mobile Development
 - 🔥 Experienced in building Android & iOS applications
 - ⚡ State Management:
-  - Bloc
-  - Cubit
-  - Provider
+  - Riverpod
   - GetX
+  - Provider
+  - Bloc
 - 🏗 Architecture:
   - Clean Architecture
   - MVVM
@@ -55,6 +55,7 @@ Passionate Flutter Developer with <strong>3+ years of experience</strong> buildi
 
 ### Backend & Database
 
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -62,10 +63,10 @@ Passionate Flutter Developer with <strong>3+ years of experience</strong> buildi
 
 ### State Management
 
-![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge)
-![Cubit](https://img.shields.io/badge/Cubit-0175C2?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
+![Riverpod](https://img.shields.io/badge/Riverpod-4B5DFF?style=for-the-badge)
 ![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge)
+![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge)
 
 ### Tools
 
@@ -73,6 +74,7 @@ Passionate Flutter Developer with <strong>3+ years of experience</strong> buildi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
